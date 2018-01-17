@@ -11,6 +11,7 @@ int main(int argc, char const *argv[]) {
     }
   }
 //coisa
+//linha 2
   for (int i = 0; i < 1000; i++) {
     if (v[i] > 0) {
       count += i;
